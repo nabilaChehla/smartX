@@ -1,5 +1,5 @@
-# smartX
+## smartX
 This is the website that my team and I created for the Dishack hackathon organized by Celec, and we won in this hackathon
 
-The project idea :
+# The project idea :
 Our company has developed a network of smart cans that are designed to make waste disposal convenient and easy for people on the go. These cans are equipped with advanced sensors that detect when they are full, and alert waste management personnel to empty them. Additionally, the smart cans are environmentally friendly, as they are made from recycled materials.To make it even easier for people to find the nearest smart can, our company has developed a website that allows users to locate the smart cans on a map. By simply entering their location, users can see the locations of all the smart cans in their area, along with information on their status and capacity. This allows people to dispose of their waste responsibly, without having to go out of their way to find a trash can or risk leaving their trash on the ground.Our website is user-friendly and easy to navigate, with a simple interface that makes finding the nearest smart can quick and easy. We are constantly updating our database to ensure that the information is accurate and up-to-date, and we are committed to providing the best possible service to our customers. By utilizing our smart cans and our website, people can make a positive impact on the environment while also making their lives a little bit easier
